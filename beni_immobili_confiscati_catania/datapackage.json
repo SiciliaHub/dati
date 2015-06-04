@@ -6,6 +6,8 @@
   "resources": [
     {
       "path": "beni_catania.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
       "schema": {
         "fields": [
           {
