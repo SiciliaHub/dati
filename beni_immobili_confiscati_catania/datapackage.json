@@ -5,7 +5,7 @@
 "homepage": "http://www.comune.catania.it/amministrazione-trasparente/beni-immobili-e-gestione-del-patrimonio/patrimonio-immobiliare/elenco-beni-confiscati/upload/20150603-elenco-beni-confiscati-mafia.pdf",
   "resources": [
     {
-      "path": "benicatania.csv",
+      "path": "beni_catania.csv",
       "schema": {
         "fields": [
           {
