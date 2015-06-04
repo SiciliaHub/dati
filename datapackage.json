@@ -32,7 +32,6 @@
             "index": 3,
             "type": "datetime",
             "description": "da definire",
-            "temporal_extent": "1999-03-12T00:00:00/2014-06-11T00:00:00",
             "name": "Data"
           },
           {
